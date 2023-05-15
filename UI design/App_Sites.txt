@@ -1,0 +1,43 @@
+App mobile:
+
+	Menus sempre na parte de baixo (onde fica mais próximo do dedo)
+		- ícones do menu minimalistas, geralmente sem nada escrito
+
+	App de compra, barra de pesquisa no topo da página (ex: amazon, shopee, ali)
+		- logo embaixo em destaque as promoções de produtos
+	
+	App como instagram deixam no topo uma ferramenta importante como nesse caso os stories
+		- no caso do twitter e tiktok o filtro do conteúdo que será visto (para você/seguindo)
+
+
+Web sites:
+
+	Lojas de roupas mais acessivéis para qualquer público usam o layout padrão
+		- no topo do site:
+			- logo do site da esquerda
+			- barra de pesquisa mais pro meio
+			- para direita o local de login/conta juntamente com o carrinho
+
+		- também logo embaixo, em seu body, as promoções disponíveis no site
+
+	Lojas de roupas mais conceituadas usam um padrão diferente (ex: Louis Vitton, Armani, Gucci)
+		- usam o logo no meio em vez de ser na esquerda
+		- todos os ícones o mais minimalista possível
+		- pouca escrita
+		- em vez de promoções, por serem lojas mais nichadas apresentam em seu body as coleções mais recentes
+
+	Sites de entretenimento como youtube e a twitch
+		- apresentam layouts muito parecidos 
+		- no topo do site:
+			- novamente o logo na esquerda
+			- barra de pesquisa no meio
+			- e na direita a conta/login
+		
+		- em seus body:
+			- um menu a esquerda com opções de conteúdo para os usuários
+			- em no resto da página conteúdos recomendados de acordo com o algoritmo
+
+
+https://dribbble.com/shots/popular
+
+https://www.typewolf.com/
